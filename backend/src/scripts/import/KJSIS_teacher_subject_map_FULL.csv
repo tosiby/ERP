@@ -1,0 +1,278 @@
+teacher_name,class,division,subject
+Molcy Cyriac,1,A,Mon	English
+Marina,1,A,Malayalam
+Merin,1,A,Mathematics
+Shikha,1,A,Computer
+Sreelaja,1,A,EVS
+Suni,1,A,Hindi
+Molcy Cyriac,1,A,Tue	English
+Emil,1,A,Craft
+Molcy Cyriac,1,A,Wed	English
+Molcy Cyriac,1,A,English
+Molcy Cyriac,1,A,Thu	English
+Molcy Cyriac,1,A,Fri	English
+Sreelaja,1,A,Cca	Cca	Evs
+Sini,1,B,Mon	Evs
+Susan,1,B,Mathematics
+Suni,1,B,Hindi
+Shikha,1,B,Computer
+Molcy Cyriac,1,B,English
+Marina,1,B,Malayalam
+Sini,1,B,Tue	Evs
+Emil,1,B,Craft
+Sini,1,B,Wed	Evs
+Sini,1,B,Thu	Evs
+Sini,1,B,Fri	Evs
+Molcy Cyriac,1,B,Cca	Cca	English
+Merin,2,A,Mon	Math
+Molcy Cyriac,2,A,English
+Shyam,2,A,Mal
+Rose,2,A,EVS
+Suni,2,A,Hindi
+Merin,2,A,Mathematics
+Shikha,2,A,Tue	It
+Emil,2,A,Craft
+Shikha,2,A,Wed	It
+Shikha,2,A,Thu	It
+Shyam,2,A,Fri	Mal
+Suni,2,A,Cca	Cca	Hindi
+Biji,2,B,Mon	Math
+Suni,2,B,Hindi
+Susan,2,B,EVS
+Molcy Cyriac,2,B,English
+Shikha,2,B,Computer
+Shyam,2,B,Malayalam
+Biji,2,B,Tue	Math
+Emil,2,B,Craft
+Biji,2,B,Wed	Math
+Biji,2,B,Draw Siby	Math
+Biji,2,B,Thu	Math
+Biji,2,B,Fri	Math
+Sreevidya,2,B,Cca	Cca	Cep
+Suni,2,C,Mon	Hindi
+Susan,2,C,EVS
+Shyam,2,C,Malayalam
+Resmi,2,C,Computer
+Merin,2,C,Mathematics
+Molcy Cyriac,2,C,English
+Susan,2,C,Tue	Evs
+Suni,2,C,Hindi
+Emil,2,C,Craft
+Suni,2,C,Wed	Hindi
+Suni,2,C,Thu	Hindi
+Siby,2,C,Drawing
+Suni,2,C,Fri	Hindi
+Merin,2,C,Cca	Cca	Math
+Marina,3,A,Mon	Malayalam
+Anita,3,A,English Language
+Sreelaja,3,A,Social Science
+Susan V,3,A,Science
+Susan A,3,A,Mathematics
+Anita,3,A,English Literature
+Marina,3,A,Tue	Malayalam
+Resmi,3,A,Computer
+Resmi,3,A,Hindi
+Emil,3,A,Craft
+Susan V,3,A,Wed	Science
+Marina,3,A,Thu	Malayalam
+Marina,3,A,Fri	Malayalam
+Susan A,3,A,Cca	Cca	Math
+Susan,3,A,Science
+Chelsia,3,B,Mon	Eng Lan
+Resmi,3,B,Hindi
+Susan A,3,B,Mathematics
+Shyam,3,B,Malayalam
+Susan V,3,B,Science
+Chelsia,3,B,English Literature
+Chelsia,3,B,Tue	Eng Lan
+Sreelaja,3,B,Social Science
+Susan,3,B,Mathematics
+Shikha,3,B,Computer
+Emil,3,B,Craft
+Chelsia,3,B,Wed	Eng Lit
+Chelsia,3,B,Thu	Eng Lan
+Sreelaja,3,B,Fri	Social
+Chelsia,3,B,English Language
+Shyam,3,B,Cca	Cca	Malayalam
+Anita,4,A,Mon 	Eng Lan
+Molly,4,A,Mathematics
+Anita,4,A,English Literature
+Marina,4,A,Malayalam
+Sreelaja,4,A,Social Science
+Rose,4,A,Science
+Lima,4,A,Hindi
+Anita,4,A,Tue	Eng Lit
+Resmi,4,A,Computer
+Rose,4,A,Wed	Science
+Emil,4,A,Craft
+Anita,4,A,English Language
+Susan V,4,A,G K
+Anita,4,A,Thu	Eng Lan
+Anita,4,A,Fri	Eng Lan
+Lima,4,A,Cca	Cca	Hindi
+Sreelaja,4,B,Mon	Social
+Reena,4,B,Mathematics
+Anita,4,B,English Language
+Suni,4,B,Hindi
+Marina,4,B,I T Siby	Malayalam
+Rose,4,B,Science
+Sreelaja,4,B,Tue	Social
+Susan V,4,B,G K
+Marina,4,B,Malayalam
+Sreelaja,4,B,Wed	Social
+Emil,4,B,Craft
+Anita,4,B,English Literature
+Siby,4,B,Computer
+Sreelaja,4,B,Thu	Social
+Reena,4,B,Fri	Math
+Anita,4,B,Cca	Cca	Eng Lan
+Resmi,5,A,Mon	It
+Chelsia,5,A,English Language
+Susan A,5,A,Mathematics
+Rose,5,A,Science
+Lima,5,A,Hindi
+Shyam,5,A,Malayalam
+Sreelaja,5,A,Social Science
+Resmi,5,A,Tue	It
+Chelsia,5,A,English Literature
+Susan A,5,A,Wed	Math
+Emil,5,A,Craft
+Resmi,5,A,Thu	It
+Lima,5,A,Gk Agna	Hindi
+Susan A,5,A,Fri	Math
+Rose,5,A,Cca	Cca	Science
+Shiji,5,B,Mon	Social
+Syam,5,B,Mal
+Rose,5,B,Science
+Siby,5,B,Computer
+Susan A,5,B,Mathematics
+Lima,5,B,Hindi
+Anita,5,B,English Language
+Susan A,5,B,Tue	Math
+Shyam,5,B,Malayalam
+Anita,5,B,English Literature
+Shiji,5,B,Wed	Social
+Emil,5,B,Craft
+Shiji,5,B,Thu	Social
+Shiji,5,B,Fri	Social
+Agna,5,B,G K
+Ben,5,B,Cca	Cca	Ped
+Rose,6,A,Mon	Physics
+Gomathy,6,A,History
+Susan,6,A,Biology
+Resmi,6,A,Computer
+Agna,6,A,Malayalam
+Biji,6,A,Mathematics
+Krishnam Raj,6,A,English Language
+Rose,6,A,Tue	Chemistry
+Gomathy,6,A,Geography
+Meenu,6,A,Hin/Frn	Lib
+Krishnam Raj,6,A,English Literature
+Gomathy,6,A,Wed	Hin/Frn	History
+Rose,6,A,Thu	Physics
+Krishnam Raj,6,A,Hin/Frn	Bio Susan	Eng Lan
+Rose,6,A,Fri	Chemistry
+Resmi,6,A,Hin/Frn	Cca	Cca	It
+Sreevidya,7,A,Mon	French
+Krishnam Raj,7,A,English Language
+Molly,7,A,Physics
+Shiji,7,A,History
+Gomathy,7,A,Geography
+Resmi,7,A,Computer
+Merin,7,A,Mathematics
+Sreevidya,7,A,Tue	French
+Agna,7,A,Malayalam
+Molly,7,A,Chemistry
+Sini,7,A,Biology
+Agna,7,A,Wed	Malayalam
+Krishnam Raj,7,A,English Literature
+Sreevidya,7,A,Thu	French
+Resmi,7,A,Fri	It
+Agna,7,A,Cca	Cca	Malayalam
+Sreevidya,7,A,French
+Lima,7,B,Mon	Hindi
+Shikha,7,B,Computer
+Agna,7,B,Malayalam
+Chelsia,7,B,English Language
+Merin,7,B,Mathematics
+Chelsia,7,B,English Literature
+Reena,7,B,Physics
+Sini,7,B,Biology
+Lima,7,B,Tue	Hindi
+Reena,7,B,Chemistry
+Shiji,7,B,History
+Merin,7,B,Wed	Math
+Lima,7,B,Thu	Hindi
+Gomathy,7,B,Geography
+Merin,7,B,Fri	Math
+Gomathy,7,B,Cca	Cca	Geography
+Lima,7,B,Hindi
+Shikha,9,B,Mon	C A
+Shiji,9,B,History
+Rani,9,B,Mathematics
+Krishnam Raj,9,B,English Language
+Sini,9,B,Biology
+Molly,9,B,Physics
+Agna,9,B,Malayalam
+Krishnam Raj,9,B,Tue	Eng Lan
+Sandhya,9,B,V P Mam	Eng Lit
+Reena,9,B,Chemistry
+Sandhya,9,B,Wed	Eng Lit
+Shiji,9,B,V P Mam	History
+Sandhya,9,B,Thu	Eng Lit
+Reena,9,B,V P Mam	Chemistry
+Shikha,9,B,C A
+Sandhya,9,B,Fri	Eng Lit
+Shikha,9,B,V P Mam	C A
+Molly,9,A,Mon	Physics
+Biji,9,A,Mathematics
+Remya,9,A,English Language
+Biji,9,A,Fre  	Math
+Sini,9,A,Biology
+Shiji,9,A,History
+Shikha,9,A,C A
+Reena,9,A,Tue	Chemistry
+V P,9,A,Ped Ben	Geo
+Shiji,9,A,Fre  	History
+Molly,9,A,Wed	Physics
+V P,9,A,Geography
+Sandhya,9,A,English Literature
+Reena,9,A,Fre  	Chemistry
+Molly,9,A,Thu	Physics
+Shikha,9,A,Fri	C A
+Sandhya,9,A,Lib Meenu	Eng Lit
+Reena,9,A,Chemistry
+Reena,10,A,Mon	Chemistry
+Sini,10,A,Biology
+Krishnam Raj,10,A,English Language
+Gomaty,10,A,Geography
+Molly,10,A,Physics
+Biji,10,A,Mathematics
+Anu,10,A,Computer
+Sandhya,10,A,English Literature
+Molly,10,A,Tue	Physics
+Shiji,10,A,Mal / Fre	History
+Gomaty,10,A,Wed	Geo
+Krishnam Raj,10,A,Mal / Fre	Eng Lan
+Shiji,10,A,History
+Reena,10,A,Thu	Chemistry
+Molly,10,A,Fri	Physics
+Reena,10,A,Chemistry
+Biji,10,A,Ped Ben	Math
+Rani,10,B,Mon	Math
+Sandhya,10,B,English Literature
+Anu,10,B,Computer
+Marina,10,B,Shiji	Malayalam
+Reena,10,B,Chemistry
+Remya,10,B,English Language
+Molly,10,B,Physics
+Rani,10,B,Tue	Math
+Sini,10,B,Shiji	Biology
+Rani,10,B,Mathematics
+Gomaty,10,B,Geography
+Marina,10,B,Malayalam
+Rani,10,B,Wed	Math
+Sini,10,B,Biology
+Rani,10,B,Thu	Math
+Gomaty,10,B,Shiji	Geo
+Rani,10,B,Fri	Math
