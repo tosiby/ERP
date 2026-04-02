@@ -19,7 +19,15 @@ export const CreateExamTypeSchema = z.object({
   { message: 'passing_marks_default must be less than max_marks_default', path: ['passing_marks_default'] },
 );
 
-export const UpdateExamTypeSchema = CreateExamTypeSchema.partial().omit({ academic_year_id: true });
+// Strip the .superRefine() wrapper before .partial() — rebuild as a plain object schema
+export const UpdateExamTypeSchema = z.object({
+  code:                   z.string().min(1).max(10).toUpperCase().optional(),
+  label:                  z.string().min(1).max(50).optional(),
+  max_marks_default:      z.number().int().positive().optional(),
+  passing_marks_default:  z.number().int().positive().optional(),
+  entry_mode_default:     z.enum(['total', 'component']).optional(),
+  display_order:          z.number().int().min(0).optional(),
+});
 
 export const BulkUpsertExamTypesSchema = z.object({
   academic_year_id: z.string().uuid(),

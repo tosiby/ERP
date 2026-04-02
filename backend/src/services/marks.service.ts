@@ -22,7 +22,7 @@ import {
   BulkMarkEntryInput,
   BulkComponentMarkEntryInput,
   SubmitMarksInput,
-  LockMarksInput,
+  LockSubjectMarksInput,
   MarksQueryInput,
 } from '../schemas/marks.schema';
 
@@ -361,7 +361,7 @@ export const submitMarks = async (
 // POST: Lock marks — submitted → locked (exam_cell / super_admin only)
 // =============================================================
 export const lockMarks = async (
-  input: LockMarksInput,
+  input: LockSubjectMarksInput,
   lockedBy: string,
 ): Promise<{ locked: number }> => {
   const { exam_id, subject_id, division_id } = input;

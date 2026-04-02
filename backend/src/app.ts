@@ -25,6 +25,9 @@ import aiInsightsRoutes    from './routes/ai-insights.routes';
 // ── Phase 3 Routes ────────────────────────────────────────────
 import termsRoutes from './routes/terms.routes';
 
+// ── Phase 4 Routes ────────────────────────────────────────────
+import reportsV2Routes from './routes/reports-v2.routes';
+
 import { globalErrorHandler, notFoundHandler } from './middleware/error.middleware';
 import { logger } from './utils/logger';
 
@@ -107,6 +110,9 @@ api.use('/ai',                 aiInsightsRoutes);
 
 // Phase 3
 api.use('/admin/terms',        termsRoutes);
+
+// Phase 4
+api.use('/reports-v2',         reportsV2Routes);
 
 app.use('/api', api);
 
